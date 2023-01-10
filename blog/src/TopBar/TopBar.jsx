@@ -1,5 +1,6 @@
+import React from 'react'
 import './TopBar.css'
-
+import p6 from './images/p6.jpg'
 
 
 export default function TopBar() {
@@ -21,7 +22,7 @@ export default function TopBar() {
       </div>
 
       <div className="topRight">
-        <img className='topImg' src="./images/p5.jpg" alt="" />
+        <img className='topImg' src={p6} alt="" />
         <i className="topSearchIcon fa-sharp fa-solid fa-magnifying-glass"></i>
       </div>
       
