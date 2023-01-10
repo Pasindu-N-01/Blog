@@ -1,6 +1,19 @@
 .top{
     widows: 100%;
     height: 50px;
-    background-color: aqua;
+    background-color: whitesmoke;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.topLeft,.topRight{
+    flex: 3;
+    
+}
+
+.topCenter{
+    flex: 6;
 }
 
