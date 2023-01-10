@@ -21,7 +21,7 @@ export default function TopBar() {
       </div>
 
       <div className="topRight">
-        <img className='topImg' src="./images/p6.jpg" alt="" />
+        <img className='topImg' src="./images/p5.jpg" alt="" />
         <i className="topSearchIcon fa-sharp fa-solid fa-magnifying-glass"></i>
       </div>
       
