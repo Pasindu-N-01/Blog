@@ -13,6 +13,13 @@
     
 }
 
+.topIcons{
+    font-size: 20px;
+    margin-right: 10px;
+    color: #444;
+    cursor: pointer;
+}
+
 .topImg{
     width: 40px;
     height: 40px;
@@ -21,7 +28,30 @@
 
 }
 
+.topList{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topListItems{
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
 .topCenter{
     flex: 6;
+}
+
+.topSearchIcon{
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+    margin-left: 20px;
+
 }
 
