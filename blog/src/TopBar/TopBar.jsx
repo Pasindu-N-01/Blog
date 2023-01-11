@@ -6,7 +6,8 @@ import p6 from './images/p6.jpg'
 export default function TopBar() {
   return (
     <div className='top'>
-      <div className="topLeft"><i className="topIcons fa-brands fa-facebook"></i>
+      <div className="topLeft">
+      <i className="topIcons fa-brands fa-facebook"></i>
       <i className="topIcons fa-brands fa-square-whatsapp"></i>
       <i className="topIcons fa-brands fa-square-instagram"></i>
       <i className="topIcons fa-brands fa-linkedin"></i>
