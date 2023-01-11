@@ -1,5 +1,6 @@
 
 import "./Header.css"
+import sea from "../Images/sea.jpg"
 
 export default function header() {
   return (
@@ -10,7 +11,7 @@ export default function header() {
         <span className="headerTitleLg">Blog</span>
       </div>
 
-      <img className="headerImg" src="" alt="" />
+      <img className="headerImg" src={sea} alt="" />
 
 
 
