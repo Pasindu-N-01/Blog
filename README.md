@@ -1,2 +1,2 @@
 # Blog
-Develop a blog using Ract js and css.
+Develop a blog using Ract/Node js and css.
