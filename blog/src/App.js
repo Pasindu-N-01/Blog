@@ -5,7 +5,7 @@ function App() {
   return (
       <>
       <TopBar />
-      <p>Hello</p>
+      
       </>
   );
 }
