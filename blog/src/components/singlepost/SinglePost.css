@@ -1,0 +1,8 @@
+.singlePost{
+    flex: 9;
+}
+
+.singlePostWrap{
+    padding: 20px;
+    padding-right: 0;
+}
