@@ -7,6 +7,13 @@ export default function () {
 
         <img src="" alt="" />
 
+        <div className="postInfor">
+          <div className="postCategory">
+            <span className="postCat">Music</span>
+            <span className="postCat">Music</span>
+          </div>
+        </div>
+
     </div>
   )
 }
