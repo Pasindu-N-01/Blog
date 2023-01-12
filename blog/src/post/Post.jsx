@@ -12,6 +12,15 @@ export default function () {
             <span className="postCat">Music</span>
             <span className="postCat">Music</span>
           </div>
+
+          <span className="postTitle">
+            Music And Life
+          </span>
+
+          <hr />
+
+          <span className="postDate">1 hour ago</span>
+
         </div>
 
     </div>
