@@ -11,6 +11,7 @@ export default function TopBar() {
       <i className="topIcons fa-brands fa-square-whatsapp"></i>
       <i className="topIcons fa-brands fa-square-instagram"></i>
       <i className="topIcons fa-brands fa-linkedin"></i>
+      
     </div>
 
       <div className="topCenter">
@@ -23,8 +24,9 @@ export default function TopBar() {
       </div>
 
       <div className="topRight">
-        <img className='topImg' src={p6} alt="" />
+        
         <i className="topSearchIcon fa-sharp fa-solid fa-magnifying-glass"></i>
+        <img className='topImg' src={p6} alt="" />
       </div>
       
 
