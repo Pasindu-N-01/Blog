@@ -1,6 +1,6 @@
 
 import "./Header.css"
-import sea from "../Images/sea.jpg"
+import sea from "../../Images/sea.jpg"
 
 export default function header() {
   return (

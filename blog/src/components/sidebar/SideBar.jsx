@@ -1,6 +1,6 @@
 import React from 'react'
 import "./SideBar.css"
-import p5 from "../Images/p5.jpg"
+import p5 from "../../Images/p5.jpg"
 
 import Highlighter from "react-highlight-words";
 

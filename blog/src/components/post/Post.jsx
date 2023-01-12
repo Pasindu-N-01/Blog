@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Post.css"
-import musicLife from '../Images/m2.jpg'
+import musicLife from '../../Images/m2.jpg'
 
 export default function () {
   return (
