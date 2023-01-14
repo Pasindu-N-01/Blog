@@ -6,3 +6,57 @@
     padding: 20px;
     padding-right: 0;
 }
+
+.singlePostImg{
+    width: 100%;
+    min-height: 300px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.singlePostTitle{
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.singlePostEdit{
+    float: right;
+    font-size: 18px;
+}
+
+.singlePostIcon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.singlePostIcon:first-child{
+    color: teal;
+}
+
+.singlePostIcon:last-child{
+    color: tomato;
+}
+
+.singlePostInfo{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    color: black;
+}
+
+.singlePostDesc{
+    text-align: left;
+    color: #666;
+    font-size: 15px;
+    line-height:  25px;
+    font-family: 'Varela', sans-serif;
+}
+
+.singlePostDesc::first-letter{
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 400;
+}

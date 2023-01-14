@@ -19,8 +19,56 @@ export default function SinglePost() {
                 <span className='singlePostAuthor'>3 hours ago</span>
             </div>
 
-            <p>Lorem ipsum dolor sit amet consectetur a
+            <p className='singlePostDesc'>Lorem ipsum dolor sit amet consectetur a
                 dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?Lorem ipsum dolor sit amet consectetur a
+                dipisicing elit. Deserunt voluptatum tene
+                tur doloremque, 
+                labore esse temporibus quis quisqua
+                m ea porro quidem laborum facilis eius odit 
+                suscipit. Natus iusto non ratione sint?dipisicing elit. Deserunt voluptatum tene
                 tur doloremque, 
                 labore esse temporibus quis quisqua
                 m ea porro quidem laborum facilis eius odit 
